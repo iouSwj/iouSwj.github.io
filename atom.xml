@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-21T12:43:10.622Z</updated>
+  <updated>2020-09-21T14:23:07.821Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>脸红的小白兔</title>
+    <link href="http://example.com/2020/09/21/story0001/"/>
+    <id>http://example.com/2020/09/21/story0001/</id>
+    <published>2020-09-21T14:14:34.000Z</published>
+    <updated>2020-09-21T14:23:07.821Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/2020/09/21/story0001/1.jpg&quot;&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="睡前故事" scheme="http://example.com/categories/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/"/>
+    
+    
+    <category term="小邵同学" scheme="http://example.com/tags/%E5%B0%8F%E9%82%B5%E5%90%8C%E5%AD%A6/"/>
+    
+    <category term="思念" scheme="http://example.com/tags/%E6%80%9D%E5%BF%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>想你的第一天</title>
