@@ -19,4 +19,13 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/09/21/test/</url>
+    <content><![CDATA[<p>ceshi </p>
+]]></content>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
 </search>
