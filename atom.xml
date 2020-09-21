@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-21T10:16:32.977Z</updated>
+  <updated>2020-09-21T10:31:10.401Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,44 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>tt</title>
-    <link href="http://example.com/2020/09/21/tt/"/>
-    <id>http://example.com/2020/09/21/tt/</id>
-    <published>2020-09-21T10:16:32.000Z</published>
-    <updated>2020-09-21T10:16:32.977Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://example.com/2020/09/21/test/"/>
-    <id>http://example.com/2020/09/21/test/</id>
-    <published>2020-09-21T08:52:24.000Z</published>
-    <updated>2020-09-21T09:01:18.363Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;ceshi</summary>
-        
-      
-    
-    
-    
-    <category term="testt" scheme="http://example.com/categories/testt/"/>
-    
-    
-    <category term="linux" scheme="http://example.com/tags/linux/"/>
-    
-  </entry>
   
   <entry>
     <title>想你的第一天</title>
@@ -78,27 +40,6 @@
     <category term="小邵同学" scheme="http://example.com/tags/%E5%B0%8F%E9%82%B5%E5%90%8C%E5%AD%A6/"/>
     
     <category term="思念" scheme="http://example.com/tags/%E6%80%9D%E5%BF%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2020/09/18/hello-world/"/>
-    <id>http://example.com/2020/09/18/hello-world/</id>
-    <published>2020-09-18T12:38:34.957Z</published>
-    <updated>2020-09-18T14:39:37.605Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
