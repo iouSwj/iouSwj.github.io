@@ -24,6 +24,9 @@
     <url>/2020/09/21/test/</url>
     <content><![CDATA[<p>ceshi </p>
 ]]></content>
+      <categories>
+        <category>testt</category>
+      </categories>
       <tags>
         <tag>linux</tag>
       </tags>
