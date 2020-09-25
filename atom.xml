@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-25T14:41:55.641Z</updated>
+  <updated>2020-09-25T15:02:56.546Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,15 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>missyouthesixthday</title>
+    <title>想你的第六天</title>
     <link href="http://example.com/2020/09/25/missyouthesixthday/"/>
     <id>http://example.com/2020/09/25/missyouthesixthday/</id>
     <published>2020-09-25T14:41:55.000Z</published>
-    <updated>2020-09-25T14:41:55.641Z</updated>
+    <updated>2020-09-25T15:02:56.546Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;/2020/09/25/missyouthesixthday/1.jpg&quot;&gt;</summary>
+        
+      
     
     
     
+    <category term="随想" scheme="http://example.com/categories/%E9%9A%8F%E6%83%B3/"/>
     
+    
+    <category term="小邵同学" scheme="http://example.com/tags/%E5%B0%8F%E9%82%B5%E5%90%8C%E5%AD%A6/"/>
+    
+    <category term="思念" scheme="http://example.com/tags/%E6%80%9D%E5%BF%B5/"/>
     
   </entry>
   
